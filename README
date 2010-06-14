@@ -16,3 +16,11 @@ need south installed.
 DJANGO-MULTILINGUAL-NG DOES NOT WORK WITH DJANGO TRUNK AS OF DJANGO r12502!
 This issue will be resolved as soon as a new official Django package is
 released.
+
+Example app
+-----------
+
+	cd example/
+	./manage.py runserver
+	
+username and password are 'demo'
